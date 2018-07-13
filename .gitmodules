@@ -1,0 +1,9 @@
+[submodule "io_turtlesim"]
+	path = io_turtlesim
+	url = https://github.com/bhuvanchandra/io_turtlesim.git
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/bhuvanchandra/navigation.git
+[submodule "talk"]
+	path = talk
+	url = https://github.com/bhuvanchandra/talk.git
